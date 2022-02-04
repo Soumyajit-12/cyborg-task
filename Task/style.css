@@ -1,0 +1,22 @@
+.first-div{
+    background-color: gold;
+    border: 5px solid black;
+    padding: 20px 0px 20px 20px; /*top -- left -- bottom -- right.*/
+    margin: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    height: 80px;
+    width: 300px;
+}
+.second-div{
+    border: 2px solid blue;
+    background-color: cyan;
+}
+.demo-div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    overflow: scroll;
+
+}
